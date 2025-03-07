@@ -8,12 +8,8 @@ int main() {
 	cout << "welcome mr " << name;
 
 
-
-
-
-
-
-
-
 	return 0;
 }
+
+//Write a C++ program that asks the user for their name and then prints a
+greeting message
